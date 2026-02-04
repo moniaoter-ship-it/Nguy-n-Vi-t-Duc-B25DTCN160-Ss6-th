@@ -11,6 +11,7 @@ if (students.includes("Lan")) {
 } else {
     console.log("Lan không tồn tại trong mảng");
 }
-console.log("Vị trí của Lan:", students.indexOf("Lan"));
+console.log("Vị trí của Nam:", students.indexOf("Nam"));
+
 
 
